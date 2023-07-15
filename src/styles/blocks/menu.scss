@@ -1,0 +1,55 @@
+.menu {
+  box-sizing: border-box;
+  height: 100vh;
+  background-color: #d12d35;
+
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.menu__nav {
+  margin-bottom: 32px;
+}
+
+.menu__phone-number {
+  text-decoration: none;
+  color: white;
+  display: block;
+
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 27px;
+
+  margin-bottom: 8px;
+}
+
+.menu__phone-number-button {
+  text-decoration: none;
+  color: white;
+  display: block;
+
+  border-bottom: 1px #fff solid ;
+  width: fit-content;
+  padding-bottom: 8px;
+  margin-top: 16px;
+
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 2px;
+
+}
+
+.menu__content {
+  padding-inline: 20px;
+}
+
+.menu__top {
+  margin-bottom: 15px;
+}
